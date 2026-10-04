@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A simple purple box with a lid line: a moving box / loadout crate. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#7060F7"
+        android:pathData="M36,40 h36 a4,4 0 0 1 4,4 v24 a4,4 0 0 1 -4,4 h-36 a4,4 0 0 1 -4,-4 v-24 a4,4 0 0 1 4,-4 z" />
+    <path
+        android:fillColor="#2B2B2B"
+        android:pathData="M32,50 h44 v3 h-44 z" />
+    <path
+        android:fillColor="#2B2B2B"
+        android:pathData="M49,56 h10 v4 h-10 z" />
+</vector>
